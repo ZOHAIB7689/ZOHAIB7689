@@ -49,8 +49,7 @@ Passionate **Web & AI Developer** with a robust background in creating innovativ
 - 🔍 Intelligent search capabilities
 
 ### 2. E-commerce Ecosystem 🛒
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ZOHAIB7689/ecommerce-app)
-
+[![Comforty]("hhttps://hackathone-woad.vercel.app/")]
 **Modern Full-Stack E-commerce Solution**
 - 💻 Next.js & TypeScript
 - 🔐 Secure Authentication
