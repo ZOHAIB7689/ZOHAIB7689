@@ -1,7 +1,7 @@
-# 🚀 Zohaib Ahmed | Full Stack & AI Developer
+# 🚀 Zohaib Baloch | Full Stack & AI Developer
 
 <div align="center">
-  <img src="https://media.giphy.com/media/USUIWSteF8DJoc7TpM/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://avatars.githubusercontent.com/u/159872246?v=4" width="300" alt="Coding GIF">
 </div>
 
 ## 👨‍💻 About Me
