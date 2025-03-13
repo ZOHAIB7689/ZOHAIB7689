@@ -1,7 +1,7 @@
 # 🚀 Zohaib Baloch | Full Stack & AI Developer
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/159872246?v=4" width="300" alt="Coding GIF">
+  <img src="./OG.jpg" width="300" alt="Coding GIF">
 </div>
 
 ## 👨‍💻 About Me
